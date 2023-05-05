@@ -1,5 +1,5 @@
 ### Estudante da Universidade Federal de Viçosa
-
+gh repo clone PatrickSN/Ciencia_Computacao
 <!--
 **PatrickSN/PatrickSN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
